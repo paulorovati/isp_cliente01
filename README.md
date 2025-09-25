@@ -1,6 +1,7 @@
 **Automação de Atendimento Inteligente via WhatsApp**
 
 **1. Introdução**
+
 Esta apresentação descreve o *workflow* desenvolvido para automatizar o atendimento ao cliente via WhatsApp, tendo como principais objetivos:  
 - Garantir atendimento ágil e eficiente.  
 - Utilizar tecnologias como Inteligência Artificial (IA), gerenciamento multimídia e integração com bancos de dados.  
@@ -15,6 +16,7 @@ Esta apresentação descreve o *workflow* desenvolvido para automatizar o atendi
 WhatsApp → Recepção da Mensagem → Análise Multimídia → Escalonamento Inteligente → Resposta Personalizada com IA → Registro no Banco de Dados.  
 
 **2. Visão Geral da Arquitetura**
+
 A arquitetura foi projetada para oferecer escalabilidade e eficiência, interligando:  
 - **API do WhatsApp**: Integrada para recepção e envio de mensagens.  
 - **NLP e Base de Conhecimento (RAG)**: Tecnologia de Retrieval-Augmented Generation para consultas contextuais.  
@@ -70,6 +72,7 @@ Caso o cliente retorne, o histórico é recuperado, garantindo continuidade no a
 ✅ Alta precisão nas informações, pois a IA acessa diretamente dados armazenados.  
 
 **4. Caminhos para Futuras Melhorias**
+
 Para melhorar continuamente a solução, foram planejadas as seguintes iniciativas:  
 
 **4.1. Velocidade de Processamento de Multimídias**  
@@ -88,6 +91,7 @@ Para melhorar continuamente a solução, foram planejadas as seguintes iniciativ
 - Envio automatizado de notificações, ofertas ou atualizações com base no comportamento do cliente e nas necessidades identificadas.  
 
 **5. Conclusão**
+
 Esta solução de automação entrega:  
 
 - **Eficácia:** Atendimento rápido, mesmo durante picos.  
@@ -96,6 +100,7 @@ Esta solução de automação entrega:
 - **Oportunidades de Evolução:** A base do sistema permite expansões e melhorias constantes.  
 
 **Impacto para o Cliente:**
+
 - Redução de custos com equipe de atendimento.  
 - Aumento da satisfação do usuário final.  
 - Escalabilidade nas operações de atendimento.  
